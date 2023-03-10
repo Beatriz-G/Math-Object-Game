@@ -27,4 +27,4 @@ function guessNumber(name, num) {
   }
 };
 
-guessNumber("Octavia", num);
+guessNumber("Roque", num);
