@@ -27,4 +27,4 @@ function guessNumber(name, num) {
   }
 };
 
-guessNumber("Roque Bebe", num);
+guessNumber("Roque", num);
