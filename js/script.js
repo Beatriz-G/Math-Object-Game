@@ -6,10 +6,10 @@ function guessNumber(name, num) {
   var randomNumber = Math.floor(Math.random() * 26); // This will produce a number between 1 and 25 - this line is error free :)
 
   if (num > 25){
-    response.innerText = "Hey buddy, We need a number between 1 and 25.";
+    response.innerText = "Hey buddy! We need a number between 1 and 25.";
     return response;
   } else if (num < 1) {
-    response.innerText = "Hey buddy, We need a number between 1 and 25.";
+    response.innerText = "Hey buddy! We need a number between 1 and 25.";
     return response;
   };
 
